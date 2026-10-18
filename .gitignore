@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+# Raw data and trained models are shared through Google Drive
+data/
+models/
+
+# Personal writing notes
+report_notes/
